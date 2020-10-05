@@ -4,6 +4,16 @@ title: Projects
 permalink: /projects/
 ---
 
+<img style="float: left;" width="250" height="150" src="https://jsreddy.github.io/images/lus.png">
+### Interpreting Lung Ultrasound Scans
+Working on algorithms to interpret various artifacts in lung ultrasound scans that can expedite the diagnosis of COVID-19.
+<br/><br/><br/><br/>
+
+
+### Viewport Prediction
+Studied the problem of predicting future head trajectories based on the coorrelation between eye and head movements in a virtual environment.
+<br/><br/><br/><br/>
+
 <img style="float: left;" width="250" height="150" src="https://jsreddy.github.io/images/ObjDet.png">
 ### Detection of objects with reflective properties 
 Analyzed the effect of depth to detect reflective objects such as mirrors in images. 
