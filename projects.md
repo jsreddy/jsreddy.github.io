@@ -13,7 +13,7 @@ permalink: /projects/
     Proposed a framework to model and synthesize 3D shapes from depth maps. 
 
 
-<b> ![Scene Text Detection And Recognition](https://jsreddy.github.io/images/detected_text.png)</b>
+<!-- <b> ![Scene Text Detection And Recognition](https://jsreddy.github.io/images/detected_text.png)</b>
     Experimented with a two stage network to detect text from natural images. 
 
 <b> ![Brand Logo Detection](https://jsreddy.github.io/images/logo.jpg)</b>
@@ -24,5 +24,5 @@ permalink: /projects/
 
 <b> ![Classifying Thermographic features for Breast Cancer Screening](https://jsreddy.github.io/images/breast_cancer.jpg)</b>
     Designed an algorithm to automatically classify thermographic images for the presence of breast cancer. We also enable automatic detection of the suspected malignant regions in images taken from various angles.
-
+ -->
     
