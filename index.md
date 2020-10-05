@@ -2,7 +2,7 @@
 layout: page
 ---
 
-##About me
+## About me
 
 I am a Ph.D. student in [Computer Science](https://www.cs.umd.edu/) at The University of Maryland, College Park, advised by [Prof. Amitabh Varshney](https://www.cs.umd.edu/~varshney/). My research interests include 3D Computer Vision, Computer Graphics, Deep Learning.
 
