@@ -5,12 +5,12 @@ permalink: /projects/
 ---
 
 <img style="float: left;" width="200" height="200" src="https://jsreddy.github.io/images/ObjDet.png">
-### Detection of objects with reflective properties <br/>
-    Analyzed the effect of depth to detect reflective objects such as mirrors in images. 
+### Detection of objects with reflective properties 
+Analyzed the effect of depth to detect reflective objects such as mirrors in images. 
 
 <img style="float: left;" width="200" height="200" src="https://jsreddy.github.io/images/multiview_depth.png">
-### 3D Shape Modeling using Multi-view Depth Maps <br/>
-    Proposed a framework to model and synthesize 3D shapes from depth maps. 
+### 3D Shape Modeling using Multi-view Depth Maps 
+Proposed a framework to model and synthesize 3D shapes from depth maps. 
 
 
 <!-- <b> ![Scene Text Detection And Recognition](https://jsreddy.github.io/images/detected_text.png)</b>
