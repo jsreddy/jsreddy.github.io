@@ -36,7 +36,7 @@ Trained FasterRCNN for detecting logos in natural images. The project also explo
 
 <img style="float: left;" width="250" height="150" src="https://jsreddy.github.io/images/mtp.png">
 ### Representation Learning and Random Projections for Sparse Data
-Experimented with various hashing techniques for dimensionality reduction. We also explored multi-task setting for Named Entity Disambiguation(NED).
+Experimented with various hashing techniques for dimensionality reduction. We also explored multi-task setting for Named Entity Disambiguation (NED).
 <br/><br/><br/><br/>
 
 <img style="float: right;" width="250" height="150" src="https://jsreddy.github.io/images/breast_cancer.jpg">
