@@ -29,7 +29,7 @@ Trained FasterRCNN for detecting logos in natural images. The project also explo
 Experimented with various hashing techniques for dimensionality reduction. We also explored multi-task setting for Named Entity Disambiguation(NED).
 <br/><br/><br/><br/>
 
-<img style="float: right;" width="200" height="200" src="https://jsreddy.github.io/images/breast_cancer.jpg">
+<img style="float: right;" width="250" height="150" src="https://jsreddy.github.io/images/breast_cancer.jpg">
 ### Classifying Thermographic features for Breast Cancer Screening
 Designed an algorithm to automatically classify thermographic images for the presence of breast cancer. We also enable automatic detection of the suspected malignant regions in images taken from various angles.
 
