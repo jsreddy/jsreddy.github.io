@@ -20,7 +20,7 @@ I graduated from Indian Institute of Technology, Kharagpur with B.Tech (Honors) 
     Rijula Kar, Susmija Reddy, Sourangshu Bhattacharya, Anirban Dasgupta, Soumen Chakrabarti <br/>
     AAAI 2018
 
-- ### [Extraction of medically interpretable features for classification of malignancy in breast thermography](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7590886&tag=1)
+- ### [Extraction of medically interpretable features for classification of malignancy in breast thermography](https://raw.githubusercontent.com/jsreddy/jsreddy.github.io/master/files/EMBC.pdf)
     Himanshu Madhu, Siva Teja Kakileti, Krithika Venkataramani, Susmija Jabbireddy <br/>
     EMBC 2016
  
