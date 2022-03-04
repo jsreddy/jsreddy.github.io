@@ -13,6 +13,10 @@ I graduated from Indian Institute of Technology, Kharagpur with B.Tech (Honors) 
 
 ## Publications
 
+- ### [Sparse Nanophotonic Phased Arrays for Energy-Efficient Holographic Displays]() <br/>
+    Susmija Jabbireddy, Yang Zhang, Martin Peckerar, Mario Dagenais, Amitabh Varshney
+    IEEE VR 2022 
+
 - ### [Improved Modeling of 3D Shapes with Multi-view Depth Maps](https://arxiv.org/pdf/2009.03298.pdf) <br/>
     Kamal Gupta, Susmija Jabbireddy, Ketul Shah, Abhinav Shrivastava, Matthias Zwicker <br/>
     3DV 2020 (Oral presentation)
