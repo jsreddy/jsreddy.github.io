@@ -13,7 +13,7 @@ I graduated from Indian Institute of Technology, Kharagpur with B.Tech (Honors) 
 
 ## Publications
 
-- ### [Sparse Nanophotonic Phased Arrays for Energy-Efficient Holographic Displays]() <br/>
+- ### [Sparse Nanophotonic Phased Arrays for Energy-Efficient Holographic Displays](https://ieeexplore.ieee.org/document/9756748) <br/>
     Susmija Jabbireddy, Yang Zhang, Martin Peckerar, Mario Dagenais, Amitabh Varshney
     IEEE VR 2022 
 
