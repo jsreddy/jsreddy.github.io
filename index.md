@@ -17,6 +17,14 @@ I graduated from Indian Institute of Technology, Kharagpur with B.Tech (Honors) 
     Susmija Jabbireddy, Yang Zhang, Martin Peckerar, Mario Dagenais, Amitabh Varshney
     IEEE VR 2022 
 
+- ### [Rectangular Mapping-based Foveated Rendering](https://ieeexplore.ieee.org/document/9756831) <br/>
+    Jiannan Ye, Anqi Xie, Susmija Jabbireddy, Yunchuan Li, Xubo Yang, Xiaoxu Meng
+    IEEE VR 2022
+
+- ### [Foveated Rendering: Motivation, Taxonomy, and Research Directions]() <br/>
+    Susmija Jabbireddy, Xuetong Sun, Xiaoxu Meng, Amitabh Varshney
+    (Under Submission)
+
 - ### [Improved Modeling of 3D Shapes with Multi-view Depth Maps](https://arxiv.org/pdf/2009.03298.pdf) <br/>
     Kamal Gupta, Susmija Jabbireddy, Ketul Shah, Abhinav Shrivastava, Matthias Zwicker <br/>
     3DV 2020 (Oral presentation)
