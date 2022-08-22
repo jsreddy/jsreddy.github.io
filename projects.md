@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-<img style="float: left; padding-right=200px;" width="250" height="150" src="https://jsreddy.github.io/images/lus.jpeg">
+![ultasound_image]("https://jsreddy.github.io/images/lus.jpeg"){: height="150" width="250" style="float:left; padding-right:30px"}
 ### Interpreting Lung Ultrasound Scans
 Working on algorithms to interpret various artifacts in lung ultrasound scans that can expedite the diagnosis of COVID-19.
 <br/><br/><br/><br/>
