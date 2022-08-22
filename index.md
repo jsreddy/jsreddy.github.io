@@ -22,28 +22,32 @@ I graduated from Indian Institute of Technology, Kharagpur with B.Tech (Honors) 
 
 ## Publications
 
+- ### [VIINTER: View Interpolation With Implicit Neural Representations of Images]() <br/>
+    Brandon Y. Feng, *Susmija Jabbireddy*, Amitabh Varshney
+    SIGGRAPH Asia, 2022
+
 - ### [Sparse Nanophotonic Phased Arrays for Energy-Efficient Holographic Displays](https://ieeexplore.ieee.org/document/9756748) <br/>
-    Susmija Jabbireddy, Yang Zhang, Martin Peckerar, Mario Dagenais, Amitabh Varshney
+    *Susmija Jabbireddy*, Yang Zhang, Martin Peckerar, Mario Dagenais, Amitabh Varshney
     IEEE VR 2022 
 
 - ### [Rectangular Mapping-based Foveated Rendering](https://ieeexplore.ieee.org/document/9756831) <br/>
-    Jiannan Ye, Anqi Xie, Susmija Jabbireddy, Yunchuan Li, Xubo Yang, Xiaoxu Meng
+    Jiannan Ye, Anqi Xie, *Susmija Jabbireddy*, Yunchuan Li, Xubo Yang, Xiaoxu Meng <br/>
     IEEE VR 2022
 
-- ### [Foveated Rendering: Motivation, Taxonomy, and Research Directions]() <br/>
-    Susmija Jabbireddy, Xuetong Sun, Xiaoxu Meng, Amitabh Varshney
-    (Under Submission)
+- ### [Foveated Rendering: Motivation, Taxonomy, and Research Directions](https://arxiv.org/pdf/2205.04529.pdf) <br/>
+    *Susmija Jabbireddy*, Xuetong Sun, Xiaoxu Meng, Amitabh Varshney <br/>
+    arXiv preprint arXiv:2205.04529
 
 - ### [Improved Modeling of 3D Shapes with Multi-view Depth Maps](https://arxiv.org/pdf/2009.03298.pdf) <br/>
-    Kamal Gupta, Susmija Jabbireddy, Ketul Shah, Abhinav Shrivastava, Matthias Zwicker <br/>
+    Kamal Gupta\*, *Susmija Jabbireddy*\*, Ketul Shah\*, Abhinav Shrivastava, Matthias Zwicker <br/>
     3DV 2020 (Oral presentation)
 
 - ### [Task-Specific Representation Learning for Web-Scale Entity Disambiguation](http://cse.iitkgp.ac.in/~sourangshu/files/tsrnlned-aaai-cameraready.pdf)
-    Rijula Kar, Susmija Reddy, Sourangshu Bhattacharya, Anirban Dasgupta, Soumen Chakrabarti <br/>
+    Rijula Kar, *Susmija Reddy*, Sourangshu Bhattacharya, Anirban Dasgupta, Soumen Chakrabarti <br/>
     AAAI 2018
 
 - ### <a href="https://jsreddy.github.io/files/EMBC.pdf"> Extraction of medically interpretable features for classification of malignancy in breast thermography</a>
-    Himanshu Madhu, Siva Teja Kakileti, Krithika Venkataramani, Susmija Jabbireddy <br/>
+    Himanshu Madhu, Siva Teja Kakileti, Krithika Venkataramani, *Susmija Jabbireddy* <br/>
     EMBC 2016
  
 
