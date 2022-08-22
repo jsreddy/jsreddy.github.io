@@ -12,7 +12,7 @@ I graduated from Indian Institute of Technology, Kharagpur with B.Tech (Honors) 
 ---
 
 ## Experience
-    Google, Mountain View, CA <p> style='text-align: right;'> June-Aug 2022 </p>
+    Google, Mountain View, CA -- June-Aug 2022 
     
 
 ## Publications
