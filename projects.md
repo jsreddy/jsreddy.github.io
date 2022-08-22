@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-![sparse_NPA](/images/sparseNPA.png)){: height="150" width="250" style="float:left; padding-right:30px"}
+![sparse_NPA](/images/sparseNPA.png){: height="150" width="250" style="float:left; padding-right:30px"}
 ### Sparse Nanophotonic Phased Arrays
 Developed a method to configure sparse holograms towards energy-efficient holographic displays.
 <br/><br/><br/><br/>
