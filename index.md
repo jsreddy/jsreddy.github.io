@@ -5,14 +5,17 @@ title: ""
 
 ## About me
 
-I am a Graduate student in [Computer Science](https://www.cs.umd.edu/) at The University of Maryland, College Park, advised by [Prof. Amitabh Varshney](https://www.cs.umd.edu/~varshney/). My research interests include 3D Computer Vision, Computer Graphics, Deep Learning.
+I am a Graduate student in [Computer Science](https://www.cs.umd.edu/) at The University of Maryland, College Park, advised by [Prof. Amitabh Varshney](https://www.cs.umd.edu/~varshney/). My research interests include 3D Computer Vision, Computer Graphics, Deep Learning, 3D displays.
 
-I graduated from Indian Institute of Technology, Kharagpur with B.Tech (Honors) and M.Tech in [Computer Science and Engineering](http://cse.iitkgp.ac.in/). I also worked for [Sprinklr](https://www.sprinklr.com/) as a Product Engineer in Machine Learning team.
+I graduated from Indian Institute of Technology, Kharagpur with B.Tech (Honors) and M.Tech in [Computer Science and Engineering](http://cse.iitkgp.ac.in/).
 
 ---
 
 ## Experience
 - Google, Mountain View, CA -- June-Aug 2022 
+- [Mitsubishi Electric Research Laboratories](https://www.merl.com/), Cambridge, MA -- May-Aug 2021
+- [Sprinklr](https://www.sprinklr.com/), Gurgaon, India -- July 2017-June 2018
+- Xerox Research Center India, Bengaluru, India -- May-July 2016, May-July 2015
     
 
 ----
