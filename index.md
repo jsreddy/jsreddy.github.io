@@ -11,6 +11,10 @@ I graduated from Indian Institute of Technology, Kharagpur with B.Tech (Honors) 
 
 ---
 
+## Experience
+    Google, Mountain View, CA <p> style='text-align: right;'> June-Aug 2022 </p>
+    
+
 ## Publications
 
 - ### [Sparse Nanophotonic Phased Arrays for Energy-Efficient Holographic Displays](https://ieeexplore.ieee.org/document/9756748) <br/>
