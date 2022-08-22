@@ -4,9 +4,16 @@ title: Projects
 permalink: /projects/
 ---
 
+![sparse_NPA](/images/sparseNPA.png)){: height="150" width="250" style="float:left; padding-right:30px"}
+### Sparse Nanophotonic Phased Arrays
+Developed a method to configure sparse holograms towards energy-efficient holographic displays.
+<br/><br/><br/><br/>
+
+<hr/>
+
 ![ultasound_image](/images/lus.jpeg){: height="150" width="250" style="float:left; padding-right:30px"}
 ### Interpreting Lung Ultrasound Scans
-Working on algorithms to interpret various artifacts in lung ultrasound scans that can expedite the diagnosis of COVID-19.
+Worked on algorithms to interpret various artifacts in lung ultrasound scans that can expedite the diagnosis of COVID-19.
 <br/><br/><br/><br/>
 
 <hr/>
@@ -18,42 +25,47 @@ Studied the problem of predicting future head trajectories based on the coorrela
 
 <hr/>
 
-<img style="float: left; padding-right=80px;" width="250" height="150" src="https://jsreddy.github.io/images/ObjDet.png">
+
+![ultasound_image](/images/ObjDet.png){: height="150" width="250" style="float:left; padding-right:30px"}
 ### Detection of objects with reflective properties 
 Analyzed the effect of depth to detect reflective objects such as mirrors in images. 
 <br/><br/><br/><br/>
 
 <hr/>
 
-<img style="float: left; padding-right=80px;" width="250" height="150" src="https://jsreddy.github.io/images/multiview_depth.png">
+![ultasound_image](/images/multiview_depth.png){: height="150" width="250" style="float:left; padding-right:30px"}
 ### 3D Shape Modeling using Multi-view Depth Maps 
 Proposed a framework to model and synthesize 3D shapes from depth maps. 
 <br/><br/><br/><br/>
 
 <hr/>
 
-<img style="float: left; padding-right=80px;" width="250" height="150" src="https://jsreddy.github.io/images/detected_text.png">
+
+![ultasound_image](/images/detected_text.png){: height="150" width="250" style="float:left; padding-right:30px"}
 ### Scene Text Detection And Recognition
 Experimented with a two stage network to detect text from natural images. 
 <br/><br/><br/><br/>
 
 <hr/>
 
-<img style="float: left; padding-right=80px;" width="250" height="150" src=" https://jsreddy.github.io/images/logo.jpg">
+
+![ultasound_image](/images/logo.jpg){: height="150" width="250" style="float:left; padding-right:30px"}
 ### Brand Logo Detection
 Trained FasterRCNN for detecting logos in natural images. The project also explores methods to detect logos using visual features from a few number of reference images
 <br/><br/><br/><br/>
 
 <hr/>
 
-<img style="float: left; padding-right=80px;" width="250" height="150" src="https://jsreddy.github.io/images/mtp.png">
+
+![ultasound_image](/images/mtp.png){: height="150" width="250" style="float:left; padding-right:30px"}
 ### Representation Learning and Random Projections for Sparse Data
 Experimented with various hashing techniques for dimensionality reduction. We also explored multi-task setting for Named Entity Disambiguation (NED).
 <br/><br/><br/><br/>
 
 <hr/>
 
-<img style="float: left; padding-right=80px; " width="250" height="150" src="https://jsreddy.github.io/images/breast_cancer.jpg">
+
+![ultasound_image](/images/breast_cancer.jpg){: height="150" width="250" style="float:left; padding-right:30px"}
 ### Classifying Thermographic features for Breast Cancer Screening
 Designed an algorithm to automatically classify thermographic images for the presence of breast cancer. We also enable automatic detection of the suspected malignant regions in images taken from various angles.
 

@@ -23,11 +23,11 @@ I graduated from Indian Institute of Technology, Kharagpur with B.Tech (Honors) 
 ## Publications
 
 - ### [VIINTER: View Interpolation With Implicit Neural Representations of Images]() <br/>
-    Brandon Y. Feng, *Susmija Jabbireddy*, Amitabh Varshney
+    Brandon Y. Feng, *Susmija Jabbireddy*, Amitabh Varshney <br/>
     SIGGRAPH Asia, 2022
 
 - ### [Sparse Nanophotonic Phased Arrays for Energy-Efficient Holographic Displays](https://ieeexplore.ieee.org/document/9756748) <br/>
-    *Susmija Jabbireddy*, Yang Zhang, Martin Peckerar, Mario Dagenais, Amitabh Varshney
+    *Susmija Jabbireddy*, Yang Zhang, Martin Peckerar, Mario Dagenais, Amitabh Varshney <br/>
     IEEE VR 2022 
 
 - ### [Rectangular Mapping-based Foveated Rendering](https://ieeexplore.ieee.org/document/9756831) <br/>
