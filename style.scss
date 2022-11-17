@@ -172,7 +172,7 @@ img {
   @include mobile {
     float: none;
     display: block;
-    margin: 10px;
+    margin: 0 auto;
   }
 
   img {
@@ -198,6 +198,12 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+
+  @include mobile {
+    float: none;
+    display: block;
+    padding:10px;
+  }
 }
 
 .site-description {
