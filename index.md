@@ -40,7 +40,7 @@ Brandon Y. Feng, **Susmija Jabbireddy**, Amitabh Varshney <br/>
 ### [Rectangular Mapping-based Foveated Rendering](https://ieeexplore.ieee.org/document/9756831) 
 Jiannan Ye, Anqi Xie, **Susmija Jabbireddy**, Yunchuan Li, Xubo Yang, Xiaoxu Meng <br/>
 [IEEE VR 2022](https://ieeevr.org/2022/)
-&nbsp;  
+<br /><br />
 
 
 ![FR](/images/FR.png){: height="150" width="250" style="float:left; padding-right:30px"}
