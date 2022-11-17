@@ -46,7 +46,7 @@ Jiannan Ye, Anqi Xie, **Susmija Jabbireddy**, Yunchuan Li, Xubo Yang, Xiaoxu Men
 ![FR](/images/FR.png){: height="150" width="250" style="float:left; padding-right:30px"}
 ### [Foveated Rendering: Motivation, Taxonomy, and Research Directions](https://arxiv.org/pdf/2205.04529.pdf) <br/>
 **Susmija Jabbireddy**, Xuetong Sun, Xiaoxu Meng, Amitabh Varshney <br/>
-arXiv preprint arXiv:2205.04529
+arXiv 2022
 <br /><br />
 
 
