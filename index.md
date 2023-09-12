@@ -27,12 +27,16 @@ I graduated from the Indian Institute of Technology, Kharagpur with B.Tech (Hono
 **Susmija Jabbireddy**, Shuo Li, Xiaoxu Meng, Judith E. Terrill, Amitabh Varshney <br/>
 [EuroVis 2023.](https://conferences.eg.org/eurovis2023/)
 <br /><br />
+&nbsp;<br>
+&nbsp;<br>
 
 ![VIINTER](/images/VIINTER.png){: height="150" width="250" style="float:left; padding-right:30px"}
 ### [VIINTER: View Interpolation With Implicit Neural Representations of Images](https://arxiv.org/pdf/2211.00722.pdf)
 Brandon Y. Feng, **Susmija Jabbireddy**, Amitabh Varshney <br/>
 [SIGGRAPH Asia, 2022](https://sa2022.siggraph.org/en/)
 <br /><br />
+&nbsp;<br>
+&nbsp;<br>
 
 
 ![sparse_NPA](/images/sparseNPA.png){: height="150" width="250" style="float:left; padding-right:30px"}
@@ -40,6 +44,8 @@ Brandon Y. Feng, **Susmija Jabbireddy**, Amitabh Varshney <br/>
 **Susmija Jabbireddy**, Yang Zhang, Martin Peckerar, Mario Dagenais, Amitabh Varshney <br/>
 [IEEE VR 2022](https://ieeevr.org/2022/)
 <br /><br />
+&nbsp;<br>
+&nbsp;<br>
 
 
 ![RMFR](/images/RMFR.png){: height="150" width="250" style="float:left; padding-right:30px"}
@@ -47,6 +53,8 @@ Brandon Y. Feng, **Susmija Jabbireddy**, Amitabh Varshney <br/>
 Jiannan Ye, Anqi Xie, **Susmija Jabbireddy**, Yunchuan Li, Xubo Yang, Xiaoxu Meng <br/>
 [IEEE VR 2022](https://ieeevr.org/2022/)
 <br /><br />
+&nbsp;<br>
+&nbsp;<br>
 
 
 ![FR](/images/FR.png){: height="150" width="250" style="float:left; padding-right:30px"}
@@ -54,6 +62,8 @@ Jiannan Ye, Anqi Xie, **Susmija Jabbireddy**, Yunchuan Li, Xubo Yang, Xiaoxu Men
 **Susmija Jabbireddy**, Xuetong Sun, Xiaoxu Meng, Amitabh Varshney <br/>
 arXiv 2022
 <br /><br />
+&nbsp;<br>
+&nbsp;<br>
 
 
 ![MVDepth](/images/multiview_depth.png){: height="150" width="250" style="float:left; padding-right:30px"}
@@ -61,6 +71,8 @@ arXiv 2022
 Kamal Gupta\*, **Susmija Jabbireddy**\*, Ketul Shah\*, Abhinav Shrivastava, Matthias Zwicker <br/>
 [3DV 2020 (Oral presentation)](http://3dv2020.dgcv.nii.ac.jp/)
 <br /><br />
+&nbsp;<br>
+&nbsp;<br>
 
 
 ![TSRL](/images/mtp.png){: height="150" width="250" style="float:left; padding-right:30px"}
@@ -68,10 +80,13 @@ Kamal Gupta\*, **Susmija Jabbireddy**\*, Ketul Shah\*, Abhinav Shrivastava, Matt
 Rijula Kar, **Susmija Reddy**, Sourangshu Bhattacharya, Anirban Dasgupta, Soumen Chakrabarti <br/>
 [AAAI 2018](https://aaai.org/Conferences/AAAI-18/)
 <br /><br />
-
+&nbsp;<br>
+&nbsp;<br>
 
 ![BreastCancer](/images/breast_cancer.jpg){: height="150" width="250" style="float:left; padding-right:30px"}
 ### <a href="https://jsreddy.github.io/files/EMBC.pdf"> Extraction of medically interpretable features for classification of malignancy in breast thermography</a>
 Himanshu Madhu, Siva Teja Kakileti, Krithika Venkataramani, **Susmija Jabbireddy** <br/>
 [EMBC 2016](https://embc.embs.org/2016/)
  <br /><br />
+ &nbsp;<br>
+ &nbsp;<br>

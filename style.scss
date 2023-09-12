@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   @include desktop {
-    line-height: 1.6;
+    line-height: 1.8;
   }
 }
 
@@ -229,7 +229,7 @@ img {
   @include desktop {
     float: none;
     display: block;
-    padding-top:12px;
+    padding-top:20px;
   }
 
 }
@@ -243,7 +243,7 @@ img {
     margin: 3px 0;
   }
   @include desktop {
-    margin: 3px 0;
+    margin: 5px 0;
   }
 }
 
@@ -262,9 +262,9 @@ nav {
 
   @include desktop {
     float: none;
-    margin-top: 9px;
+    margin-top: 11px;
     display: block;
-    font-size: 16px;
+    font-size: 18px;
   }
 
   a {
