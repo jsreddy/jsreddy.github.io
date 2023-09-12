@@ -42,6 +42,10 @@ h1, h2, h3, h4, h5, h6 {
   @include mobile {
     line-height: 1.4;
   }
+
+  @include desktop {
+    line-height: 1.6;
+  }
 }
 
 h1 {
@@ -162,6 +166,10 @@ img {
     text-align: center;
     padding-top:12px;
   }
+  @include desktop {
+    text-align: center;
+    padding-top:18px;
+  }
 }
 
 .site-avatar {
@@ -176,6 +184,12 @@ img {
     margin: 0 auto;
   }
 
+  @include desktop {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+
   img {
     border-radius: 10px;
   }
@@ -185,6 +199,12 @@ img {
   float: left;
 
   @include mobile {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+
+  @include desktop {
     float: none;
     display: block;
     margin: 0 auto;
@@ -205,6 +225,13 @@ img {
     display: block;
     padding-top:12px;
   }
+
+  @include desktop {
+    float: none;
+    display: block;
+    padding-top:12px;
+  }
+
 }
 
 .site-description {
@@ -213,6 +240,9 @@ img {
   font-size: 16px;
 
   @include mobile {
+    margin: 3px 0;
+  }
+  @include desktop {
     margin: 3px 0;
   }
 }
@@ -230,6 +260,13 @@ nav {
     font-size: 16px;
   }
 
+  @include desktop {
+    float: none;
+    margin-top: 9px;
+    display: block;
+    font-size: 16px;
+  }
+
   a {
     margin-left: 20px;
     color: $darkGray;
@@ -238,6 +275,11 @@ nav {
     letter-spacing: 1px;
 
     @include mobile {
+      margin: 0 10px;
+      color: $blue;
+    }
+
+    @include desktop {
       margin: 0 10px;
       color: $blue;
     }
