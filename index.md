@@ -24,7 +24,7 @@ I graduated from the Indian Institute of Technology, Kharagpur with B.Tech (Hono
 
 ![VolRendering](/images/VolRendering.png){: height="150" width="250" style="float:left; padding-right:30px"}
 ### [Accelerated Volume Rendering with Volume Guided Neural Denoising](https://diglib.eg.org/handle/10.2312/evs20231042)
-**Susmija Jabbireddy**, Shuo Li, Xiaoxu Meng, Judith E. Terrill, and Amitabh Varshney <br/>
+**Susmija Jabbireddy**, Shuo Li, Xiaoxu Meng, Judith E. Terrill, Amitabh Varshney <br/>
 [EuroVis 2023.](https://conferences.eg.org/eurovis2023/)
 <br /><br />
 
