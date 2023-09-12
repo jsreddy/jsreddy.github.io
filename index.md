@@ -12,7 +12,7 @@ I graduated from the Indian Institute of Technology, Kharagpur with B.Tech (Hono
 ---
 
 ## Experience
-- Google, Mountain View, CA -- June-Aug 2022 
+- Google, Mountain View, CA -- June-Aug 2023, June-Aug 2022
 - [Mitsubishi Electric Research Laboratories](https://www.merl.com/), Cambridge, MA -- May-Aug 2021
 - [Sprinklr](https://www.sprinklr.com/), Gurgaon, India -- July 2017-June 2018
 - Xerox Research Center India, Bengaluru, India -- May-July 2016, May-July 2015
@@ -21,6 +21,12 @@ I graduated from the Indian Institute of Technology, Kharagpur with B.Tech (Hono
 ----
 
 ## Publications
+
+![VolRendering](/images/VolRendering.png){: height="150" width="250" style="float:left; padding-right:30px"}
+### [Accelerated Volume Rendering with Volume Guided Neural Denoising](https://diglib.eg.org/handle/10.2312/evs20231042)
+**Susmija Jabbireddy**, Shuo Li, Xiaoxu Meng, Judith E. Terrill, and Amitabh Varshney <br/>
+[EuroVis 2023.](https://conferences.eg.org/eurovis2023/)
+<br /><br />
 
 ![VIINTER](/images/VIINTER.png){: height="150" width="250" style="float:left; padding-right:30px"}
 ### [VIINTER: View Interpolation With Implicit Neural Representations of Images](https://arxiv.org/pdf/2211.00722.pdf)
@@ -69,4 +75,3 @@ Rijula Kar, **Susmija Reddy**, Sourangshu Bhattacharya, Anirban Dasgupta, Soumen
 Himanshu Madhu, Siva Teja Kakileti, Krithika Venkataramani, **Susmija Jabbireddy** <br/>
 [EMBC 2016](https://embc.embs.org/2016/)
  <br /><br />
-
