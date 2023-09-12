@@ -26,8 +26,8 @@ $georgia: Georgia, serif;
   }
 }
 
-@mixin for-desktop-up {
-  @media (min-width: 1200px) { 
+@mixin desktop {
+  @media screen and (min-width: 1200px) { 
     @content; 
   }
 }
