@@ -185,9 +185,9 @@ img {
   }
 
   @include desktop {
-    float: none;
+    float: right;
     display: block;
-    margin: 0 auto;
+    margin-left: 15px;
   }
 
   img {
