@@ -179,13 +179,14 @@ img {
   margin-right: 15px;
 
   @include mobile {
-    float: none;
+    float: right;
     display: block;
     margin: 0 auto;
+    margin-left: 15px;
   }
 
   @include desktop {
-    float: right;
+    float: none;
     display: block;
     margin-left: 15px;
   }
@@ -223,7 +224,7 @@ img {
   @include mobile {
     float: none;
     display: block;
-    padding-top:12px;
+    padding-top:18px;
   }
 
   @include desktop {
