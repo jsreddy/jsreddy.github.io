@@ -4,9 +4,20 @@ title: Projects
 permalink: /projects/
 ---
 
+<!-- 
+Projects to include
+1. Distributed Matrix Operations using Spark
+Advisor: Prof. Sourangshu Bhattacharya
+◦ Designed an algorithm to compute the inverse of a high dimension symmetric positive definite matrix
+◦ Implemented the algorithm in Apache Spark in a distributed environment using HDFS for data storage
+
+
+ -->
+
+
 ![sparse_NPA](/images/sparseNPA.png){: height="150" width="250" style="float:left; padding-right:30px"}
-### Sparse Nanophotonic Phased Arrays
-Developed a method to configure sparse holograms towards energy-efficient holographic displays.
+### Sparse holographic displays
+Developed methods to configure sparse holograms towards energy-efficient holographic displays.
 <br/><br/><br/><br/>
 
 <hr/>
@@ -19,6 +30,7 @@ Worked on algorithms to interpret various artifacts in lung ultrasound scans tha
 <hr/>
 
 
+![ultasound_image](/images/404.jpg){: height="150" width="250" style="float:left; padding-right:30px"}
 ### Viewport Prediction
 Studied the problem of predicting future head trajectories based on the coorrelation between eye and head movements in a virtual environment.
 <br/><br/><br/><br/>
@@ -67,7 +79,11 @@ Experimented with various hashing techniques for dimensionality reduction. We al
 
 ![ultasound_image](/images/breast_cancer.jpg){: height="150" width="250" style="float:left; padding-right:30px"}
 ### Classifying Thermographic features for Breast Cancer Screening
-Designed an algorithm to automatically classify thermographic images for the presence of breast cancer. We also enable automatic detection of the suspected malignant regions in images taken from various angles.
+Designed an algorithm to automatically sclassify thermographic images for the presence of breast cancer. We also enable automatic detection of the suspected malignant regions in images taken from various angles.
 
+
+![ultasound_image](/images/404.jpg){: height="150" width="250" style="float:left; padding-right:30px"}
+### Distributed Matrix Operations using Spark
+Designed an algorithm to compute the inverse of a high dimension symmetric positive definite matrix. Implemented the algorithm in Apache Spark in a distributed environment using HDFS for data storage
 
     
