@@ -80,6 +80,10 @@ Experimented with various hashing techniques for dimensionality reduction. We al
 ![ultasound_image](/images/breast_cancer.jpg){: height="150" width="250" style="float:left; padding-right:30px"}
 ### Classifying Thermographic features for Breast Cancer Screening
 Designed an algorithm to automatically sclassify thermographic images for the presence of breast cancer. We also enable automatic detection of the suspected malignant regions in images taken from various angles.
+<br/><br/><br/><br/>
+
+<hr/>
+
 
 
 ![ultasound_image](/images/404.jpg){: height="150" width="250" style="float:left; padding-right:30px"}
