@@ -86,8 +86,8 @@ Designed an algorithm to automatically sclassify thermographic images for the pr
 
 
 
-![ultasound_image](/images/distributed_matrix_btp.jpg){: height="150" width="250" style="float:left; padding-right:30px"}
+![distributed_karzmarc](/images/distributed_matrix_btp.jpg){: height="150" width="250" style="float:left; padding-right:30px"}
 ### Distributed Matrix Operations using Spark
-Designed an algorithm to compute the inverse of a high dimension symmetric positive definite matrix. Implemented the algorithm in Apache Spark in a distributed environment using HDFS for data storage
+Designed an algorithm to compute the inverse of a high dimension symmetric positive definite matrix. We implemented the algorithm in Apache Spark in a distributed environment using HDFS for data storage
 
     
