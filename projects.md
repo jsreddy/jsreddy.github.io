@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Miscellaneous Projects
 permalink: /projects/
 ---
 
@@ -15,12 +15,12 @@ Advisor: Prof. Sourangshu Bhattacharya
  -->
 
 
-![sparse_NPA](/images/sparseNPA.png){: height="150" width="250" style="float:left; padding-right:30px"}
+<!-- ![sparse_NPA](/images/sparseNPA.png){: height="150" width="250" style="float:left; padding-right:30px"}
 ### Sparse holographic displays
 Developed methods to configure sparse holograms towards energy-efficient holographic displays.
 <br/><br/><br/><br/>
 
-<hr/>
+<hr/> -->
 
 ![ultasound_image](/images/lus.jpeg){: height="150" width="250" style="float:left; padding-right:30px"}
 ### Interpreting Lung Ultrasound Scans
@@ -30,7 +30,7 @@ Worked on algorithms to interpret various artifacts in lung ultrasound scans tha
 <hr/>
 
 
-![ultasound_image](/images/404.jpg){: height="150" width="250" style="float:left; padding-right:30px"}
+![viewport_prediction](/images/404.jpg){: height="150" width="250" style="float:left; padding-right:30px"}
 ### Viewport Prediction
 Studied the problem of predicting future head trajectories based on the coorrelation between eye and head movements in a virtual environment.
 <br/><br/><br/><br/>
@@ -45,12 +45,12 @@ Analyzed the effect of depth to detect reflective objects such as mirrors in ima
 
 <hr/>
 
-![ultasound_image](/images/multiview_depth.png){: height="150" width="250" style="float:left; padding-right:30px"}
+<!-- ![ultasound_image](/images/multiview_depth.png){: height="150" width="250" style="float:left; padding-right:30px"}
 ### 3D Shape Modeling using Multi-view Depth Maps 
 Proposed a framework to model and synthesize 3D shapes from depth maps. 
 <br/><br/><br/><br/>
 
-<hr/>
+<hr/> -->
 
 
 ![ultasound_image](/images/detected_text.png){: height="150" width="250" style="float:left; padding-right:30px"}
@@ -79,7 +79,7 @@ Experimented with various hashing techniques for dimensionality reduction. We al
 
 ![ultasound_image](/images/breast_cancer.jpg){: height="150" width="250" style="float:left; padding-right:30px"}
 ### Classifying Thermographic features for Breast Cancer Screening
-Designed an algorithm to automatically sclassify thermographic images for the presence of breast cancer. We also enable automatic detection of the suspected malignant regions in images taken from various angles.
+Designed an algorithm to automatically classify thermographic images for the presence of breast cancer. We also enable automatic detection of the suspected malignant regions in images taken from various angles.
 <br/><br/><br/><br/>
 
 <hr/>
