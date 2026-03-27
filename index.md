@@ -23,7 +23,6 @@ I earned my Ph.D. in 2024 from the [University of Maryland, College Park](https:
 
 ## Publications
 
-#### 2024
 ### [VEMIC: View-aware Entropy model for Multi-view Image Compression](https://par.nsf.gov/servlets/purl/10595451)
 **Susmija Jabbireddy**, Davit Soselia, Max Ehrlich, Christopher Metzler, Amitabh Varshney <br/>
 [BMVC 2024.](https://bmvc2024.org/)
