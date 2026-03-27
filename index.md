@@ -5,9 +5,10 @@ title: ""
 
 ## About me
 
-I am a Ph.D. candidate in [Computer Science](https://www.cs.umd.edu/) at the University of Maryland, College Park, advised by [Prof. Amitabh Varshney](https://www.cs.umd.edu/~varshney/). My research interests include 3D Computer Vision, Computer Graphics, Deep Learning, 3D displays.
+I am a Software Engineer at Google DeepMind with the Gemini post-training team, pushing the boundaries of agentic LLMs.
 
-I graduated from the Indian Institute of Technology, Kharagpur with B.Tech (Honors) and M.Tech in [Computer Science and Engineering](http://cse.iitkgp.ac.in/).
+I earned my Ph.D. in 2024 from the [University of Maryland, College Park](https://www.cs.umd.edu/) in Computer Science, under the advisement of advised by [Prof. Amitabh Varshney](https://www.cs.umd.edu/~varshney/). My doctoral research culminated in the dissertation, [Efficient Rendering, Display, and Compression Techniques for Virtual and Augmented Reality](https://drum.lib.umd.edu/items/8c6a45e9-ea03-4d22-b406-6d58dbcb5c67). Prior to my doctoral studies, I earned a dual degree (B.Tech Honors & M.Tech) in Computer Science and Engineering from [IIT Kharagpur](http://cse.iitkgp.ac.in/).
+
 
 ---
 
@@ -21,6 +22,29 @@ I graduated from the Indian Institute of Technology, Kharagpur with B.Tech (Hono
 ----
 
 ## Publications
+
+#### 2024
+### [VEMIC: View-aware Entropy model for Multi-view Image Compression](https://par.nsf.gov/servlets/purl/10595451)
+**Susmija Jabbireddy**, Davit Soselia, Max Ehrlich, Christopher Metzler, Amitabh Varshney <br/>
+[BMVC 2024.](https://bmvc2024.org/)
+<br /><br />
+&nbsp;<br>
+&nbsp;<br>
+
+
+### [Holocamera: Advanced volumetric capture for cinematic-quality VR applications](https://ieeexplore.ieee.org/abstract/document/10488869)
+J. Heagerty et al.  
+[IEEE TVCG 2024](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
+<br /><br />
+&nbsp;<br>
+&nbsp;<br>
+
+### [Instant-SFH: Non-Iterative sparse Fourier holograms using perlin noise](https://www.mdpi.com/1424-8220/24/22/7358)
+David Li, **Susmija Jabbireddy**, Yang Zhang, Christopher Metzler, Amitabh Varshney<br/>
+[Sensors 2024](https://www.mdpi.com/journal/sensors)
+<br /><br />
+&nbsp;<br>
+&nbsp;<br>
 
 ![VolRendering](/images/VolRendering.png){: height="150" width="250" style="float:left; padding-right:30px"}
 ### [Accelerated Volume Rendering with Volume Guided Neural Denoising](https://diglib.eg.org/handle/10.2312/evs20231042)
