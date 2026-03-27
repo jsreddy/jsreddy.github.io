@@ -25,14 +25,14 @@ I earned my Ph.D. in 2024 from the [University of Maryland, College Park](https:
 
 ### [VEMIC: View-aware Entropy model for Multi-view Image Compression](https://par.nsf.gov/servlets/purl/10595451)
 **Susmija Jabbireddy**, Davit Soselia, Max Ehrlich, Christopher Metzler, Amitabh Varshney <br/>
-[BMVC 2024.](https://bmvc2024.org/)
+[BMVC 2024](https://bmvc2024.org/)
 <br /><br />
 &nbsp;<br>
 &nbsp;<br>
 
 
 ### [Holocamera: Advanced volumetric capture for cinematic-quality VR applications](https://ieeexplore.ieee.org/abstract/document/10488869)
-J. Heagerty et al.  
+Jonathan Heagerty, Sida Li, Eric Lee, Shuvra Bhattacharyya, Sujal Bista, Barbara Brawn, Brandon Y. Feng, **Susmija Jabbireddy**, Joseph JaJa, Hernisa Kacorri, David Li, Derek Yarnell, Matthias Zwicker, Amitabh Varshney <br/>
 [IEEE TVCG 2024](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
 <br /><br />
 &nbsp;<br>
