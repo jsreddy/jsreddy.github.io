@@ -5,7 +5,7 @@ title: ""
 
 ## About me
 
-I am a Software Engineer at Google DeepMind with the Gemini post-training team, pushing the boundaries of agentic LLMs.
+I am currently a Software Engineer at Google DeepMind on the Gemini post-training team, where my work centers on pushing the state-of-the-art in agentic large language models.
 
 I earned my Ph.D. in 2024 from the [University of Maryland, College Park](https://www.cs.umd.edu/) in Computer Science, under the advisement of advised by [Prof. Amitabh Varshney](https://www.cs.umd.edu/~varshney/). My doctoral research culminated in the dissertation, [Efficient Rendering, Display, and Compression Techniques for Virtual and Augmented Reality](https://drum.lib.umd.edu/items/8c6a45e9-ea03-4d22-b406-6d58dbcb5c67). Prior to my doctoral studies, I earned a dual degree (B.Tech Honors & M.Tech) in Computer Science and Engineering from [IIT Kharagpur](http://cse.iitkgp.ac.in/).
 
